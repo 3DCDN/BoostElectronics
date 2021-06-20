@@ -1,1 +1,3 @@
 theme: jekyll-theme-tactile
+navigation: 
+-{title: "Contact", file: contact.html}
