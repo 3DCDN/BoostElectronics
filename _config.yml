@@ -1,5 +1,5 @@
 theme: jekyll-theme-tactile{\n}
 navigation:
--{title: Home, file: home.html}
+-{title: Home, file: index.html}
 -{title: Projects, file: projects.html}
 -{title: Contact, file: contact.html}
